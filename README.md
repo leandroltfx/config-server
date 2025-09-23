@@ -1,0 +1,1 @@
+# Centralizador de configurações para arquitetura de microsserviços.
